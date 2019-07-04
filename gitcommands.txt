@@ -1,3 +1,29 @@
 today pak vs ban
 //from kalmunai
 hello
+
+Task 1
+======
+
+create a directory RapidApplicationDevelopment
+
+Go to the directory RapidApplicationDevelopment
+
+create another directory call Module
+
+Go to the directory Module
+
+Create a file index.html
+
+Add this file to your Github account
+
+Modify the index.html as a welcome page of your Module1
+
+if you have use any .css or .js files for the design 
+
+create a directory resources inside Module1
+
+inside the resources create two directories css,js
+
+move your .css and .js files inside those directory 
+ 
